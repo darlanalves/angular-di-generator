@@ -1,0 +1,34 @@
+{
+    "name": "angular-di-generator",
+    "version": "0.1.0",
+    "description": "Part of AngularDI project. Generates the angular 1.x syntax",
+    "main": "angular-di/Generator.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "test": "make test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/darlanalves/angular-di-generator"
+    },
+    "keywords": [
+        "angularjs",
+        "di",
+        "es6",
+        "es5"
+    ],
+    "author": {
+        "name": "Darlan Alves",
+        "email": "me@darlanalv.es"
+    },
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/darlanalves/angular-di-generator/issues"
+    },
+    "homepage": "https://github.com/darlanalves/angular-di-generator",
+    "devDependencies": {
+        "expect.js": "^0.3.1"
+    }
+}
